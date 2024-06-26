@@ -1,0 +1,63 @@
+Classifier,Fold,Accuracy,F1-score,Hamming Loss,Jaccard Score (samples),Jaccard Score (micro)
+Binary Relevance,0,0.411,0.614,0.058,0.601,0.443
+Binary Relevance,1,0.39,0.622,0.057,0.597,0.452
+Binary Relevance,2,0.445,0.645,0.052,0.624,0.476
+Binary Relevance,3,0.428,0.635,0.054,0.617,0.465
+Binary Relevance,4,0.438,0.627,0.056,0.618,0.457
+Classifier Chain,0,0.422,0.621,0.057,0.61,0.45
+Classifier Chain,1,0.422,0.632,0.056,0.619,0.462
+Classifier Chain,2,0.44,0.632,0.055,0.619,0.462
+Classifier Chain,3,0.434,0.638,0.054,0.623,0.469
+Classifier Chain,4,0.435,0.624,0.057,0.619,0.453
+Label Powerset,0,0.425,0.617,0.06,0.615,0.447
+Label Powerset,1,0.422,0.633,0.058,0.623,0.463
+Label Powerset,2,0.448,0.634,0.057,0.628,0.464
+Label Powerset,3,0.434,0.636,0.058,0.629,0.466
+Label Powerset,4,0.435,0.614,0.06,0.618,0.443
+RAKEL-D,0,0.413,0.615,0.058,0.606,0.444
+RAKEL-D,1,0.416,0.636,0.056,0.62,0.466
+RAKEL-D,2,0.442,0.64,0.054,0.622,0.47
+RAKEL-D,3,0.419,0.637,0.054,0.617,0.468
+RAKEL-D,4,0.45,0.627,0.057,0.624,0.457
+Classifier,Fold,Accuracy,F1-score,Hamming Loss,Jaccard Score (samples),Jaccard Score (micro)
+Binary Relevance,0,0.44,0.613,0.057,0.614,0.442
+Binary Relevance,1,0.4,0.609,0.057,0.598,0.438
+Binary Relevance,2,0.397,0.612,0.057,0.601,0.441
+Binary Relevance,3,0.374,0.606,0.057,0.583,0.434
+Binary Relevance,4,0.39,0.607,0.058,0.594,0.435
+Classifier Chain,0,0.44,0.613,0.057,0.614,0.442
+Classifier Chain,1,0.4,0.609,0.057,0.598,0.438
+Classifier Chain,2,0.397,0.612,0.057,0.601,0.441
+Classifier Chain,3,0.374,0.606,0.057,0.583,0.434
+Classifier Chain,4,0.39,0.607,0.058,0.594,0.435
+Label Powerset,0,0.448,0.617,0.056,0.624,0.446
+Label Powerset,1,0.412,0.612,0.057,0.606,0.441
+Label Powerset,2,0.409,0.614,0.057,0.609,0.443
+Label Powerset,3,0.382,0.606,0.058,0.592,0.435
+Label Powerset,4,0.405,0.611,0.057,0.605,0.44
+RAKEL-D,0,0.44,0.614,0.057,0.616,0.443
+RAKEL-D,1,0.4,0.608,0.057,0.595,0.437
+RAKEL-D,2,0.397,0.612,0.057,0.598,0.441
+RAKEL-D,3,0.376,0.607,0.057,0.586,0.436
+RAKEL-D,4,0.39,0.607,0.058,0.594,0.435
+Classifier,Fold,Accuracy,F1-score,Hamming Loss,Jaccard Score (samples),Jaccard Score (micro)
+Binary Relevance,0,0.38,0.612,0.057,0.587,0.441
+Binary Relevance,1,0.391,0.608,0.059,0.591,0.437
+Binary Relevance,2,0.416,0.595,0.06,0.592,0.423
+Binary Relevance,3,0.39,0.609,0.058,0.592,0.438
+Binary Relevance,4,0.384,0.605,0.058,0.588,0.434
+Classifier Chain,0,0.374,0.596,0.06,0.581,0.424
+Classifier Chain,1,0.394,0.603,0.06,0.591,0.431
+Classifier Chain,2,0.419,0.599,0.06,0.603,0.428
+Classifier Chain,3,0.402,0.601,0.06,0.593,0.43
+Classifier Chain,4,0.384,0.592,0.06,0.579,0.42
+Label Powerset,0,0.398,0.596,0.061,0.6,0.425
+Label Powerset,1,0.412,0.603,0.06,0.604,0.432
+Label Powerset,2,0.422,0.595,0.061,0.603,0.423
+Label Powerset,3,0.411,0.599,0.061,0.601,0.427
+Label Powerset,4,0.396,0.612,0.059,0.602,0.44
+RAKEL-D,0,0.38,0.601,0.059,0.585,0.43
+RAKEL-D,1,0.397,0.614,0.056,0.594,0.443
+RAKEL-D,2,0.425,0.599,0.059,0.602,0.428
+RAKEL-D,3,0.402,0.612,0.056,0.594,0.441
+RAKEL-D,4,0.381,0.608,0.057,0.583,0.437
