@@ -1,15 +1,16 @@
-# Project Title
+# Prognosis Model for multi target classifiation of myocardial infarction complications
+
 
 This project contains two models. One of the models is working correctly, while the other is not.
 
 ## Models
 
 1. **Working Model**: 
-   - Description: Provide a brief description of the working model.
+   - Description: Multi-label classification task that contains the working and preprocessed dataset.
    - Status: Working
 
-2. **Non-working Model**: 
-   - Description: Provide a brief description of the non-working model.
+2. **Neural Network**: 
+   - Description: a bunch of models that ended up not working,only used the feature selection from here.
    - Status: Not working
 
 ## Getting Started
